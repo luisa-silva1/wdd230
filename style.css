@@ -13,6 +13,16 @@ body {
 
 }
 
+li a{ 
+  text-decoration: none;
+  color: white;
+}
+
+li a:hover { 
+  text-decoration: none;
+  color: #80CED7;
+}
+
   main {
     width: 400px;
     height: 100px;
